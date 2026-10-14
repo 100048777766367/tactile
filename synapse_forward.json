@@ -1,10 +1,10 @@
 {
     "contract": "bodhi.tactile.v1",
     "source": "tactile_skin",
-    "timestamp": 1791952862,
+    "timestamp": 1791952915,
     "features": [
-        0.788,
-        0.8485
+        0.7879,
+        0.8486
     ],
     "raw_metrics": {
         "pressure": 0.85,
